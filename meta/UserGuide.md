@@ -7,7 +7,7 @@ Thank you for all the nice feedback I'm receiving through the Android Market and
 - If you want to recommend SMS Backup to your friends, press the menu button, then choose "Share".
 - You can absolutely use SMS Backup for free without having a guilty conscience! But if you insist, [donations](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2T5U5ZFKAVYBG&lc=CH&item_name=SMS%20Backup&item_number=android%2dsms&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted) will be gladly accepted. :-)
 
-Christoph Studer <[chstuder@gmail.com](chstuder@gmail.com)>
+Christoph Studer <[chstuder@gmail.com](mailto:chstuder@gmail.com)>
 
 ---
 
@@ -21,11 +21,11 @@ You need to have a Gmail account with IMAP enabled. See the [Enabling IMAP](http
 
 ## Installation
 
-SMS Backup can be downloaded and installed from Android Market. Go directly to the Android Market listing by clicking the following link on your device: [Android Market listing](http://market.android.com/search?q=pname:tv.studer.smssync). Click the "Install" button and confirm the [required permissions](#Required_Permissions).
+SMS Backup can be downloaded and installed from Android Market. Go directly to the Android Market listing by clicking the following link on your device: [Android Market listing](http://market.android.com/search?q=pname:tv.studer.smssync). Click the "Install" button and confirm the [required permissions](#required-permissions).
 
 ## Configuration
 
-After starting SMS Backup, enter your Google username and password. Note that the password will be stored unencrypted on your device. It is, however, only used to log into Gmail using a secure SSL connection and is not readable by other applications. See below for a description of the [advanced settings](#Advanced_Settings).
+After starting SMS Backup, enter your Google username and password. Note that the password will be stored unencrypted on your device. It is, however, only used to log into Gmail using a secure SSL connection and is not readable by other applications. See below for a description of the [advanced settings](#advanced-settings).
 
 ## Usage
 
