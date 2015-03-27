@@ -1,6 +1,6 @@
 # android-sms
 
-This app was created by [Christoph Studer](chstuder@gmail.com) and hosted at [Google Code](https://code.google.com/p/android-sms/).  With Google Code's imminent shutdown, I decided to create a safety copy at GitHub.
+This app was created by [Christoph Studer](chstuder@gmail.com), hosted at [Google Code](https://code.google.com/p/android-sms/) and published at [Google Play](https://play.google.com/store/apps/details?id=tv.studer.smssync).  With Google Code's imminent shutdown, I decided to create a safety copy at GitHub.
 
 Note that this is not a complete archive!  The automatic *Google Code to GitHub* process was unable to transfer this project over for reasons unknown ("GitHub code import failure: Error! There was an error pushing commits to GitHub.") so this transfer was made via manual SVN checkout and Git import.
 
